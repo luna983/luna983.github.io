@@ -18,4 +18,4 @@ Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at Un
 
 [Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions](china-air-quality-ml), joint with Minghao Qiu (MIT).
 
-Manuscript (available upon request) &#124; [Slides](https://luna-yue-huang.com/assets/pdf/china-air-quality-ml-slides.pdf) &#124; [Poster](https://luna-yue-huang.com/assets/pdf/china-air-quality-ml-poster.pdf)
+Manuscript (available upon request) &#124; [Slides](http://luna-yue-huang.com/assets/pdf/china-air-quality-ml-slides.pdf) &#124; [Poster](http://luna-yue-huang.com/assets/pdf/china-air-quality-ml-poster.pdf)
