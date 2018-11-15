@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+    
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width">
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+        <img src="{{ site.url }}/assets{{ site.profile_pic }}" alt="Profile">
+        <p><small>Photo by <a href="{{ site.profile_link }}">{{ site.profile_credit }}</a></small><br></p>
+                
+        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <p><strong>{{ site.short_description | default: site.github.project_tagline }}</strong></p>
+        <p>{{ site.long_description | default: site.github.project_tagline }}<br></p>
+        <p><a href="{{ site.long_url }}/assets{{ site.cv_file }}">Curriculum Vitae</a> &#124; <a href="mailto:{{ site.email }}">Email</a> &#124; <a href="{{ site.github }}">GitHub</a><br></p>
+        {% if site.icons %}
+          <div class="icon-bar">
+            <li><a href="{{ site.long_url }}/assets{{ site.cv_file }}"><i class="fa fa-file-pdf-o"></i></a></li>
+            <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o""></i></a></li>
+            <li><a href="{{ site.github }}"><i class="fa fa-github"></i></a></li>
+          </div>
+        {% endif %}
+        <p><br></p>
+        
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>
