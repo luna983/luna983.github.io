@@ -4,7 +4,7 @@ layout: default
 
 ## Bio
 
-Luna is a development economist interested in studying the causes and consequences of urbanization in developing countries with new sources of granular data and state-of-the-art tools from econometrics and data science. She is particularly interested in...
+Luna is a development economist interested in studying urbanization in developing countries with new sources of granular data and state-of-the-art tools from econometrics and data science. She is particularly interested in
 
 * The impacts and incidence of rural and urban infrastructure in developing countries;
 * Barriers and returns to rural-urban migration and the implications for social mobility;
@@ -18,4 +18,4 @@ Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at Un
 
 [Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions](china-air-quality-ml), joint with Minghao Qiu (MIT).
 
-Manuscript (available upon request) &#124; [Slides](https://raw.githubusercontent.com/luna983/luna983.github.io/master/assets/pdf/china-air-quality-ml-slides.pdf) &#124; [Poster](https://raw.githubusercontent.com/luna983/luna983.github.io/master/assets/pdf/china-air-quality-ml-poster.pdf)
+Manuscript (available upon request) &#124; [Slides](https://luna-yue-huang.com/assets/pdf/china-air-quality-ml-slides.pdf) &#124; [Poster](https://luna-yue-huang.com/assets/pdf/china-air-quality-ml-poster.pdf)
