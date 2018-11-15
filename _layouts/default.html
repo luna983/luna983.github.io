@@ -19,13 +19,13 @@
     <div class="wrapper">
       <header>
         
-        <img src="{{ site.url }}/assets{{ site.profile_pic }}" alt="Profile">
+        <img src="{{ site.profile_pic }}" alt="Profile">
         <p><small>Photo by <a href="{{ site.profile_link }}">{{ site.profile_credit }}</a></small><br></p>
                 
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-        <p><strong>{{ site.short_description | default: site.github.project_tagline }}</strong></p>
-        <p>{{ site.long_description | default: site.github.project_tagline }}<br></p>
-        <p><a href="{{ site.long_url }}/assets{{ site.cv_file }}">Curriculum Vitae</a> &#124; <a href="mailto:{{ site.email }}">Email</a> &#124; <a href="{{ site.github }}">GitHub</a><br></p>
+        <a href="{{ site.long_url }}"> <h1>{{ site.title }}</h1> </a>
+        <p><strong>{{ site.short_description }}</strong></p>
+        <p>{{ site.long_description }}<br></p>
+        <p><a href="{{ site.long_url }}{{ site.cv_file }}">Curriculum Vitae</a> &#124; <a href="mailto:{{ site.email }}">Email</a> &#124; <a href="{{ site.github }}">GitHub</a><br></p>
         <p><br></p>
         
       </header>
@@ -37,7 +37,7 @@
       
     </div>
     
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script src="/assets/js/scale.fix.js"></script>
 
   {% if site.google_analytics %}
     <script>

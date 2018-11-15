@@ -5,10 +5,10 @@ meta_description: "Ph.D. Student in development economics at UC Berkeley"
 meta_keywords: "development economics, urban economics, economics, UC Berkeley"
 meta_author: "Luna Yue Huang"
 
-profile_pic: "/img/profile.jpg"
+profile_pic: "/assets/img/profile.jpg"
 profile_credit: "Max Chiyu Jiang"
 profile_link: "http://www.maxjiang.ml/about"
-cv_file: "/pdf/cv.pdf"
+cv_file: "/assets/pdf/cv.pdf"
 email: "yuehuang@berkeley.edu"
 github: "https://github.com/luna983"
 
