@@ -1,17 +1,18 @@
-theme: jekyll-theme-minimal
+title: "Luna Yue Huang"
+short_description: "Development Economist"
+long_description: "Ph.D. Student at UC Berkeley"
+meta_description: "Ph.D. Student in development economics at UC Berkeley"
+meta_keywords: "development economics, urban economics, economics, UC Berkeley"
+meta_author: "Luna Yue Huang"
 
-title: Luna Yue Huang
-short_description: Development Economist
-long_description: Ph.D. Student at UC Berkeley
-
-profile_pic: /img/profile.jpg
-profile_credit: Max Chiyu Jiang
+profile_pic: "/img/profile.jpg"
+profile_credit: "Max Chiyu Jiang"
 profile_link: "http://www.maxjiang.ml/about"
-cv_file: /pdf/cv.pdf
-email: yuehuang@berkeley.edu
+cv_file: "/pdf/cv.pdf"
+email: "yuehuang@berkeley.edu"
 github: "https://github.com/luna983"
 
 url: "luna983.github.io"
 long_url: "https://luna983.github.io"
 
-google_analytics: UA-115019672-1
+google_analytics: "UA-115019672-1"
