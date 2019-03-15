@@ -1,3 +1,3 @@
 ## TODO
 
-* Replace CV with the academic version
+* Change font: replace with a more modern and lighter look
