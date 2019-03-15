@@ -10,7 +10,7 @@ Luna is a development economist interested in leveraging granular spatial data, 
 * the aggregate and distributional effects of infrastructure investments;
 * economic and health impacts of pollution and the effectiveness of various environmental regulations.
 
-Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu), working with [Ted Miguel](http://emiguel.econ.berkeley.edu/) and [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro). She is also a research assistant at [Center for Effective Global Action](http://cega.berkeley.edu). Prior to joining UC Berkeley, she received a B.A. in [Economics](http://www.nsd.pku.edu.cn/index.html) and a B.S. in [Environmental Sciences](http://cese.pku.edu.cn) from Peking University, China.
+Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu), working with [Ted Miguel](http://emiguel.econ.berkeley.edu/) and [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro). She is also a research assistant at [Center for Effective Global Action](http://cega.berkeley.edu). Prior to joining UC Berkeley, she received a B.A. in Economics and a B.S. in Environmental Sciences from Peking University, China.
 
 ## Research
 
