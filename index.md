@@ -20,7 +20,7 @@ Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adr
 
 ### Working Papers
 
-Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu (MIT)_ ([Slides](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [Manuscript](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/manuscript.pdf) &#124; [Github](https://github.com/luna983/air-quality-machine-learning))
+Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu_ ([Slides](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [Manuscript](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/manuscript.pdf) &#124; [Github](https://github.com/luna983/air-quality-machine-learning))
 
 ### Work in Progress
 
