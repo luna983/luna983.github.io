@@ -16,12 +16,12 @@ Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at Un
 
 ### Publication
 
-Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adrien Bouguen, Michael Kremer, Edward Miguel. _Annual Review of Economics_, 2019 forthcoming. ([NBER Working Paper Version](https://www.nber.org/papers/w25356))
+Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adrien Bouguen, Michael Kremer, Edward Miguel. _Annual Review of Economics_, 2019 forthcoming. ([__NBER Working Paper Version__](https://www.nber.org/papers/w25356))
 
 ### Working Papers
 
-Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu_ ([Slides](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [Manuscript](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/manuscript.pdf) &#124; [Github](https://github.com/luna983/air-quality-machine-learning))
+Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu_ ([__Slides__](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [__Manuscript__](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/manuscript.pdf) &#124; [__Github__](https://github.com/luna983/air-quality-machine-learning))
 
 ### Work in Progress
 
-Impact Evaluation with Satellite Imagery and Machine Learning ([Github](https://github.com/luna983/impact-evaluation-with-machine-learning))
+Impact Evaluation with Satellite Imagery and Machine Learning ([__Github__](https://github.com/luna983/impact-evaluation-with-machine-learning))
