@@ -16,7 +16,7 @@ Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at Un
 
 ### Publication
 
-Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adrien Bouguen, Michael Kremer, Edward Miguel. _Annual Review of Economics_, 2019 forthcoming. ([__NBER Working Paper Version__](https://www.nber.org/papers/w25356))
+Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adrien Bouguen, Michael Kremer, Edward Miguel. _Annual Review of Economics_, 2019 forthcoming. ([__NBER Working Paper Version__](https://www.nber.org/papers/w25356) &#124; [__Vox Talks__](https://voxeu.org/vox-talks/rcts-long-run))
 
 ### Working Papers
 
