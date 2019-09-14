@@ -1,3 +1,3 @@
 ## TODO
 
-* Change font: replace with a more modern and lighter look
+* Add data visualizations with D3
