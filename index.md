@@ -4,13 +4,9 @@ layout: default
 
 ## Bio
 
-Luna is a development economist interested in leveraging granular spatial data, state-of-the-art machine learning algorithms and quantitative spatial models to study
+Luna is a PhD candidate at UC Berkeley interested in development economics and data science. She is particularly interested in leveraging granular remote sensing data and state-of-the-art deep learning algorithms to improve measures of economic development in regions with poor official statistics, and evaluate policy effectiveness in international development.
 
-* urban sprawl and informal settlements (slums) in developing countries;
-* the aggregate and distributional effects of infrastructure investments;
-* economic and health impacts of pollution and the effectiveness of various environmental regulations.
-
-Luna is currently a Ph.D. student in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu), working with [Ted Miguel](http://emiguel.econ.berkeley.edu/) and [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro). She is also a research assistant at [Center for Effective Global Action](http://cega.berkeley.edu). Prior to joining UC Berkeley, she received a B.A. in Economics and a B.S. in Environmental Sciences from Peking University, China.
+Luna is currently a Ph.D. candidate in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu), working with [Ted Miguel](http://emiguel.econ.berkeley.edu/) and [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro). Prior to joining UC Berkeley, she received a B.A. in Economics and a B.S. in Environmental Sciences from Peking University, China.
 
 ## Research
 
@@ -20,8 +16,10 @@ Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adr
 
 ### Working Papers
 
-Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu_ ([__Slides__](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [__Manuscript__](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/manuscript.pdf) &#124; [__Github__](https://github.com/luna983/air-quality-machine-learning))
+Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu_ ([__Slides__](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [__Github__](https://github.com/luna983/air-quality-machine-learning))
 
 ### Work in Progress
 
-Impact Evaluation with Satellite Imagery and Machine Learning ([__Github__](https://github.com/luna983/impact-evaluation-with-machine-learning))
+Beyond Nightlight: Using Daytime High-Resolution Satellite Images in Economics
+
+Impact Evaluation with Satellite Imagery and Machine Learning: Evidence from the GiveDirectly Experiment in Kenya ([__Github__](https://github.com/luna983/impact-evaluation-with-machine-learning))
