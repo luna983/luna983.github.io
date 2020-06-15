@@ -2,36 +2,20 @@
 layout: default
 ---
 
-## Bio
+<div align="center">
+	<h3 style="color: #999; font-weight: 400;">
+	<a href="http://luna-yue-huang.com/index.html"><b>bio</b></a> | <a href="http://luna-yue-huang.com/research.html">research</a> | <a href="http://luna-yue-huang.com/impact.html">impact</a> | <a href="http://luna-yue-huang.com/teaching.html">teaching</a><br>
+	</h3>
+</div>
 
-Luna is a PhD candidate at UC Berkeley interested in development economics and geospatial machine learning. She is particularly interested in leveraging granular remote sensing data and state-of-the-art deep learning algorithms to improve measures of economic development in regions with poor official statistics, and evaluate policy effectiveness in international development.
+----
 
-Luna is currently a Ph.D. candidate in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu) and a doctoral fellow at the [Global Policy Lab](http://www.globalpolicy.science/new-cover-page), working with [Ted Miguel](http://emiguel.econ.berkeley.edu/), [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro) and [Solomon Hsiang](http://www.globalpolicy.science/solomon-hsiang). Prior to joining UC Berkeley, she received a B.A. in Economics and a B.S. in Environmental Sciences from Peking University, China.
+### Bio
 
-## Research
+Luna is a PhD candidate at UC Berkeley, working on research at the intersection of economics and data science. Much of her work explores the use of novel data, such as satellite imagery, and machine learning techniques in economics - [to help governments and NGOs "see" poverty from space (in Kenya)](http://luna-yue-huang.com/research-jmp.html); [to track the long-term effects of climate change in post-war aerial photos (in the Caribbean)](http://luna-yue-huang.com/research-aerial.html); or [to combat manipulation of air pollution data with remote sensing (in China)](http://luna-yue-huang.com/research-pollution.html).
 
-### Work in Progress
+Luna is currently a Ph.D. candidate in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu) and a doctoral fellow at the [Global Policy Lab](http://www.globalpolicy.science/new-cover-page), working with [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro) and [Solomon Hsiang](http://www.globalpolicy.science/solomon-hsiang). She has published in top academic journals like [_Nature_](https://www.nature.com/articles/s41586-020-2404-8) and [_Annual Review of Economics_](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030333). Prior to joining UC Berkeley, she received a B.A. in Economics and a B.S. in Environmental Science from Peking University, China.
 
-__Understanding the Effects of Climate Change on Mass Migration Using 1.6 Million Historical Aerial Photographs__
+In May 2020, Luna joined [Google X](https://x.company/) as an AI (Artificial Intelligence) resident, continuing her work in causal inference and machine learning.
 
-_joint with Solomon Hsiang, Andreas Madestam, Anna Tompsett, Hannah Druckenmiller, Nicklas Nordfors, and Trinetta Chong_
-
-Since the 1940s, how have extreme climatic events and climate changes affected economic development across Africa and the Caribbean? At the same time, will climatic events drive mass migration? Who is largely at risk? How many could move and where will they go?
-
-The scarcity and low granuality of historical census and survey data in less developed regions prevented researchers from studying these questions of global importance. We propose to overcome this challenge by developing the first historical high-resolution reconstruction of population density, urban extent and land use maps across Africa and the Caribbean Islands.
-
-We are in the process of digitizing, pre-processing and georeferencing an archive of 1.6 million historical aerial photographs originally taken to map the former British Empire. These images span 27 countries and 60 years, and promise to generate unique insights into consequences and adaptation responses to long-term climate change.
-
-__Beyond Nightlight: Using Daytime High-Resolution Satellite Images in Economics__ (AGU 2019 Oral Presentation: [__Abstract__](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/507850) &#124; Slides Available Upon Request)
-
-The use and popularization of night light data in economics allowed researchers to, for the first time, measure growth for sub-national regions across the globe, even in countries with poor national accounts data. I show that the use of high-resolution daytime satellite data, combined with deep learning methods, promises to improve upon the night light data in several dimensions, and opens up new possibilities for economic research. I find that applying state-of-the-art machine learning models (e.g., Mask RCNN) on high-resolution satellite data generates spatially disaggregated measures of housing consumption, a good proxy for economic development. With validation exercises against Mexican census data, I demonstrate that these housing consumption measures are (1) more sensitive than night lights in poor and rural regions, and (2) captures local variations in wealth inequality. These measures also (3) have a higher spatial resolution than night lights, which allows researchers to make use of fine spatial variations, such as those generated by most randomized controlled trials (RCTs). I estimate treatment effects from a large unconditional cash transfer (GiveDirectly) in western Kenya and obtain similar results as extensive in-person surveys.
-
-### Publication
-
-The effect of large-scale anti-contagion policies on the COVID-19 pandemic, joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu. _Nature_, 2020. https://doi.org/10.1038/s41586-020-2404-8 ([__GitHub__](https://github.com/bolliger32/gpl-covid) &#124; [__Project Page__](http://www.globalpolicy.science/covid19) &#124; __Media Coverage__: [Berkeley Press Release](https://news.berkeley.edu/2020/06/08/emergency-covid-19-measures-prevented-more-than-500-million-infections-study-finds/); [CNN](https://edition.cnn.com/world/live-news/coronavirus-pandemic-06-08-20-intl/h_55d779b7205a0e095e1b93969ac5e860); [New York Times](https://www.nytimes.com/reuters/2020/06/08/world/europe/08reuters-health-coronavirus-lockdowns.html); [The Washington Post](https://www.washingtonpost.com/health/2020/06/08/shutdowns-prevented-60-million-coronavirus-infections-us-study-finds/); [Reuters](https://www.reuters.com/article/us-health-coronavirus-lockdowns/lockdowns-may-have-averted-3-million-deaths-in-europe-by-curbing-covid-19-study-idUSKBN23F1G3); [Forbes](https://www.forbes.com/sites/tommybeer/2020/06/08/shutdowns-prevented-approximately-60-million-coronavirus-cases-in-us-study-shows/#2592974f7192); [Bloomberg](https://www.bloomberg.com/news/articles/2020-06-08/lockdowns-may-have-helped-prevent-half-a-billion-covid-cases); [CNBC](https://www.cnbc.com/2020/06/08/lockdowns-prevented-nearly-5-million-us-coronavirus-cases-study-says.html); [Fox News](https://www.foxnews.com/science/coronavirus-lockdowns-prevented-60m-infections-us); [BBC](https://www.bbc.com/news/health-52968523); [DailyMail](https://www.dailymail.co.uk/health/article-8399049/Shutdowns-prevented-60-MILLION-coronavirus-cases-study-finds.html); [新浪](https://news.sina.com.cn/o/2020-06-08/doc-iirczymk5954420.shtml); [搜狐](https://www.sohu.com/a/400550194_123753); [The Times of India](https://timesofindia.indiatimes.com/world/europe/lockdowns-may-have-averted-3-million-deaths-in-europe-by-curbing-covid-19-study/articleshow/76269187.cms))
-
-Using RCTs to Estimate Long-Run Impacts in Development Economics, joint with Adrien Bouguen, Michael Kremer, Edward Miguel. _Annual Review of Economics_, Volume 11, 2019. ([__Published Version__](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030333) &#124; [__NBER Working Paper Version__](https://www.nber.org/papers/w25356) &#124; [__Vox Talks__](https://voxeu.org/vox-talks/rcts-long-run))
-
-### Working Papers
-
-Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions, _joint with Minghao Qiu_ ([__Slides__](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) &#124; [__Github__](https://github.com/luna983/air-quality-machine-learning))
+__Update:__ Luna is on the 2021 job market, actively looking for data scientist or economist roles in the US/Canada.
