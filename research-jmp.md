@@ -15,7 +15,7 @@ layout: default
 
 ----
 
-__Beyond Nightlight: Using Daytime High-Resolution Satellite Images in Economics__
+__Measuring the Welfare Impacts of International Development Programs with Satellite Imagery and Deep Learning__
 
 _job market paper_
 
