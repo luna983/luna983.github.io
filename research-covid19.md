@@ -21,4 +21,5 @@ _joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ia
 
 ([__Published Version on Nature__](https://www.nature.com/articles/s41586-020-2404-8) &#124; [__GitHub__](https://github.com/bolliger32/gpl-covid) &#124; [__UC Berkeley Press Release__](https://news.berkeley.edu/2020/06/08/emergency-covid-19-measures-prevented-more-than-500-million-infections-study-finds/) &#124; [__Project Page__](http://www.globalpolicy.science/covid19))
 
-![research-covid19-maps](http://luna-yue-huang.com/assets/img/research-covid19-maps.jpg)
+<div id='research-covid19-maps'></div>
+<script src="/assets/js/research-covid19-maps.js"></script>
