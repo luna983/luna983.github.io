@@ -31,8 +31,8 @@ Our [recent Nature publication](https://www.nature.com/articles/s41586-020-2404-
 </table>
 </div>
 <div id='research-covid19-maps-USA'></div>
-
-The red circles show the actual no. of confirmed cases in March/April (left: Confirmed Cases), or the projected no. of confirmed cases on the same date, had no policies been enacted (right: No Policy Scenario). The area of the circles is proportional to no. of confirmed cases. Scroll down to see other countries.
+<br>
+The red circles show the actual no. of confirmed cases in March/April (left: Confirmed Cases), or the projected no. of confirmed cases on the same date, had no policies been enacted (right: No Policy Scenario). The area of the circles is proportional to no. of confirmed cases. Scroll down to see other countries. The sizes of the circles are comparable across countries.
 
 <div id='research-covid19-nav-CHN' align="center">
 <b>China</b>
@@ -89,6 +89,6 @@ The red circles show the actual no. of confirmed cases in March/April (left: Con
 </div>
 <div id='research-covid19-maps-IRN'></div>
 
-Note: Estimates shown above are on March 5 (for China), March 22 (for Iran), March 25 (for France), April 6 (for South Korea, Italy, US). We restrict our projections for these periods for technical reasons, see the [Appendix](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2404-8/MediaObjects/41586_2020_2404_MOESM1_ESM.pdf) for details.
+Note: Estimates shown above are on March 5 (for China), March 22 (for Iran), March 25 (for France), April 6 (for South Korea, Italy, US). We do not present projections (or confirmed cases) for over 100 cities in China. We restrict our projections as such for reasons stated in the [Appendix](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2404-8/MediaObjects/41586_2020_2404_MOESM1_ESM.pdf).
 
 <script src="/assets/js/research-covid19-maps.js"></script>
