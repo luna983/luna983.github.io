@@ -16,7 +16,7 @@ Luna is a PhD candidate at UC Berkeley, working on research at the intersection 
 
 Luna is currently a Ph.D. candidate in [Agricultural and Resource Economics, at University of California, Berkeley](https://are.berkeley.edu) and a doctoral fellow at the [Global Policy Lab](http://www.globalpolicy.science/new-cover-page), working with [Edward Miguel](http://emiguel.econ.berkeley.edu/), [Marco Gonzalez-Navarro](https://are.berkeley.edu/users/marco-gonzalez-navarro) and [Solomon Hsiang](http://www.globalpolicy.science/solomon-hsiang). She has published in top academic journals like [_Nature_](https://www.nature.com/articles/s41586-020-2404-8) and [_Annual Review of Economics_](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030333). Prior to joining UC Berkeley, she received a B.A. in Economics and a B.S. in Environmental Science from Peking University, China.
 
-In May 2020, Luna joined [Google X](https://x.company/) as an AI (Artificial Intelligence) resident, and later converted to a Data 
-Scientist, continuing her work in causal inference and machine learning.
+In May 2020, Luna joined [Google X](https://x.company/) as an AI (Artificial Intelligence) resident, and later converted to a data 
+scientist, continuing her work in causal inference and machine learning.
 
 __Update:__ Luna is on the 2021 job market, actively looking for data scientist or economist roles in the US/Canada.
