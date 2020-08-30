@@ -15,7 +15,7 @@ layout: default
 
 ----
 
-__Measuring the Welfare Impacts of International Development Programs with Satellite Imagery and Deep Learning__
+__Measuring the Effectiveness of Poverty Alleviation Programs from Space__
 
 _job market paper_
 
