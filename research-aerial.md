@@ -15,9 +15,9 @@ layout: default
 
 ----
 
-__Understanding the Effects of Climate Change on Mass Migration Using 1.6 Million Historical Aerial Photographs__
+__Mapping Historical Climate Migration With 1.6 Million Aerial Photographs__
 
-_joint with Solomon Hsiang, Andreas Madestam, Anna Tompsett, Hannah Druckenmiller, Nicklas Nordfors, and Trinetta Chong_
+_joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett_
 
 Since the 1940s, how have extreme climatic events and climate changes affected economic development across Africa and the Caribbean? At the same time, will climatic events drive mass migration? Who is largely at risk? How many could move and where will they go?
 
