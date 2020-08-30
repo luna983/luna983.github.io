@@ -18,6 +18,6 @@ Luna is a PhD candidate in development economics at [UC Berkeley](https://www.be
 * [to help governments and NGOs "see" poverty from space (in Kenya)](http://luna-yue-huang.com/research-jmp.html)
 * [to combat manipulation of air pollution data with remote sensing (in China)](http://luna-yue-huang.com/research-pollution.html)
 
-Luna has published in top academic journals like [_Nature_](https://www.nature.com/articles/s41586-020-2404-8) and [_Annual Review of Economics_](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030333). Her work [was covered in 323 news storeies, tweeted 3206 times, and reached policy makers in the White House and the CDC](http://luna-yue-huang.com/impact.html).
+Luna has published in top academic journals like [_Nature_](https://www.nature.com/articles/s41586-020-2404-8) and [_Annual Review of Economics_](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030333). Her work [was covered in 323 news stories, tweeted 3206 times, and reached policy makers in the White House and the CDC](http://luna-yue-huang.com/impact.html).
 
 __Update:__ Luna is on the 2021 job market, actively looking for data scientist or economist roles in the US/Canada.
