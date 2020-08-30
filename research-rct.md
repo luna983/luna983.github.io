@@ -15,7 +15,7 @@ layout: default
 
 ----
 
-__Using RCTs to Estimate Long-Run Impacts in Development Economics__
+__Using Randomized Controlled Trials to Estimate Long-Run Impacts in Development Economics__
 
 _joint with Adrien Bouguen, Michael Kremer, Edward Miguel_
 
