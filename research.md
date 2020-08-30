@@ -20,7 +20,7 @@ layout: default
 #### Publication
 
 - [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](http://luna-yue-huang.com/research-covid19.html), _Nature_, 584: 262-267, 2020 (joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu).
-- [Using RCT's to Estimate Long-Run Impacts in Development Economics](http://luna-yue-huang.com/research-rct.html), _Annual Review of Economics_, 11(1): 523–561, 2019 (joint with Adrien Bouguen, Michael Kremer, and Edward Miguel).
+- [Using Randomized Controlled Trials to Estimate Long-Run Impacts in Development Economics](http://luna-yue-huang.com/research-rct.html), _Annual Review of Economics_, 11(1): 523–561, 2019 (joint with Adrien Bouguen, Michael Kremer, and Edward Miguel).
 
 #### Working Paper
 
@@ -28,5 +28,5 @@ layout: default
 
 #### Ongoing Work
 
-- [Measuring the Welfare Impacts of International Development Programs with Satellite Imagery and Deep Learning](http://luna-yue-huang.com/research-jmp.html) (job market paper).
+- [Measuring the Impacts of International Development Programs with Satellite Imagery and Deep Learning](http://luna-yue-huang.com/research-jmp.html) (job market paper).
 - [Understanding the Effects of Climate Change on Mass Migration Using 1.6 Million Historical Aerial Photographs](http://luna-yue-huang.com/research-aerial.html) (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett).
