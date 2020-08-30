@@ -19,7 +19,7 @@ layout: default
 
 #### Publication
 
-- [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](http://luna-yue-huang.com/research-covid19.html), _Nature_, 584: 262-267, 2020 (joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu).
+- [The Effect of Large-scale Anti-contagion Policies on the COVID-19 Pandemic](http://luna-yue-huang.com/research-covid19.html), _Nature_, 584: 262-267, 2020 (joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu).
 - [Using Randomized Controlled Trials to Estimate Long-Run Impacts in Development Economics](http://luna-yue-huang.com/research-rct.html), _Annual Review of Economics_, 11(1): 523–561, 2019 (joint with Adrien Bouguen, Michael Kremer, and Edward Miguel).
 
 #### Working Paper
