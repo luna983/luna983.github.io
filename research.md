@@ -28,5 +28,5 @@ layout: default
 
 #### Ongoing Work
 
-- [Measuring the Impacts of International Development Programs with Satellite Imagery and Deep Learning](http://luna-yue-huang.com/research-jmp.html) (job market paper).
-- [Understanding the Effects of Climate Change on Mass Migration Using 1.6 Million Historical Aerial Photographs](http://luna-yue-huang.com/research-aerial.html) (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett).
+- [Measuring the Effectiveness of Poverty Alleviation Programs from Space](http://luna-yue-huang.com/research-jmp.html) (job market paper).
+- [Mapping Historical Climate Migration With 1.6 Million Aerial Photographs](http://luna-yue-huang.com/research-aerial.html) (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett).
