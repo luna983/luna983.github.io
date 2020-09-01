@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div align="center">
-	<h3 style="color: #999; font-weight: 400;">
-	<a href="http://luna-yue-huang.com/index.html">bio</a> | <a href="http://luna-yue-huang.com/research.html"><b>research</b></a> | <a href="http://luna-yue-huang.com/impact.html">impact</a> | <a href="http://luna-yue-huang.com/teaching.html">teaching</a><br>
+	<h3>
+	<a href="/index.html">bio</a> | <a href="/research.html"><b>research</b></a> | <a href="/impact.html">impact</a> | <a href="/teaching.html">teaching</a><br>
 	</h3>
 </div>
 <div align="center">
-	<h4 style="color: #999; font-weight: 400;">
-	<a href="http://luna-yue-huang.com/research-aerial.html">aerial photo</a> | <a href="http://luna-yue-huang.com/research-jmp.html">mapping poverty</a> | <a href="http://luna-yue-huang.com/research-covid19.html">COVID19</a> | <a href="http://luna-yue-huang.com/research-pollution.html">air pollution</a> | <a href="http://luna-yue-huang.com/research-rct.html"><b>RCT</b></a>
+	<h4>
+	<a href="/research-aerial.html">aerial photo</a> | <a href="/research-jmp.html">mapping poverty</a> | <a href="/research-covid19.html">COVID19</a> | <a href="/research-pollution.html">air pollution</a> | <a href="/research-rct.html"><b>RCT</b></a>
 	</h4>
 </div>
 
