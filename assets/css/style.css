@@ -403,6 +403,22 @@ svg {
   height: 100%;
 }
 
+.canvas {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 105%;
+}
+
+.canvas-img {
+  position: absolute;
+  width: 100%;
+  top: 5%;
+  left: 0%;
+  opacity: .3;
+  transform-origin: 0 0;
+}
+
 .bar {
   fill: #999;
 }
