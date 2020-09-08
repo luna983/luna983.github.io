@@ -3,30 +3,30 @@ layout: default
 ---
 
 <div align="center">
-	<h3 style="color: #999; font-weight: 400;">
-	<a href="http://luna-yue-huang.com/index.html">bio</a> | <a href="http://luna-yue-huang.com/research.html"><b>research</b></a> | <a href="http://luna-yue-huang.com/impact.html">impact</a> | <a href="http://luna-yue-huang.com/teaching.html">teaching</a><br>
+	<h3>
+	<a href="/index.html">bio</a> | <a href="/research.html"><b>research</b></a> | <a href="/impact.html">impact</a> | <a href="/teaching.html">teaching</a><br>
 	</h3>
 </div>
 <div align="center">
-	<h4 style="color: #999; font-weight: 400;">
-	<a href="http://luna-yue-huang.com/research-aerial.html">aerial photo</a> | <a href="http://luna-yue-huang.com/research-jmp.html">mapping poverty</a> | <a href="http://luna-yue-huang.com/research-covid19.html">COVID19</a> | <a href="http://luna-yue-huang.com/research-pollution.html">air pollution</a> | <a href="http://luna-yue-huang.com/research-rct.html">RCT</a>
+	<h4>
+	<a href="/research-aerial.html">aerial photo</a> | <a href="/research-jmp.html">mapping poverty</a> | <a href="/research-covid19.html">COVID19</a> | <a href="/research-pollution.html">air pollution</a> | <a href="/research-rct.html">RCT</a>
 	</h4>
 </div>
 
 ----
 
-### Research
+## Research
 
-#### Publication
+### Publication
 
-- [The Effect of Large-scale Anti-contagion Policies on the COVID-19 Pandemic](http://luna-yue-huang.com/research-covid19.html), _Nature_, 584: 262-267, 2020 (joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu).
-- [Using Randomized Controlled Trials to Estimate Long-Run Impacts in Development Economics](http://luna-yue-huang.com/research-rct.html), _Annual Review of Economics_, 11(1): 523–561, 2019 (joint with Adrien Bouguen, Michael Kremer, and Edward Miguel).
+- The Effect of Large-scale Anti-contagion Policies on the COVID-19 Pandemic, __Nature__, 584: 262-267, 2020 (joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu). &nbsp; [__&rarr; project page__](/research-covid19.html)
+- Using Randomized Controlled Trials to Estimate Long-Run Impacts in Development Economics, __Annual Review of Economics__, 11(1): 523–561, 2019 (joint with Adrien Bouguen, Michael Kremer, and Edward Miguel). &nbsp; [__&rarr; project page__](/research-rct.html)
 
-#### Working Paper
+### Working Paper
 
-- [Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions](http://luna-yue-huang.com/research-pollution.html) (joint with Minghao Qiu).
+- Information, Incentives and Air Quality: New Evidence from Machine Learning Predictions (joint with Minghao Qiu). &nbsp; [__&rarr; project page__](/research-pollution.html)
 
-#### Ongoing Work
+### Ongoing Work
 
-- [Measuring the Effectiveness of Poverty Alleviation Programs from Space](http://luna-yue-huang.com/research-jmp.html) (job market paper).
-- [Mapping Historical Climate Migration With 1.6 Million Aerial Photographs](http://luna-yue-huang.com/research-aerial.html) (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett).
+- Measuring the Effectiveness of Poverty Alleviation Programs from Space (job market paper). &nbsp; [__&rarr; project page__](/research-jmp.html)
+- Mapping Historical Climate Migration With 1.6 Million Aerial Photographs (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett). &nbsp; [__&rarr; project page__](/research-aerial.html)
