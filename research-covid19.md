@@ -15,11 +15,13 @@ layout: default
 
 ----
 
-__The Effect of Large-scale Anti-contagion Policies on the COVID-19 Pandemic__ ([__Paper__](https://www.nature.com/articles/s41586-020-2404-8) &#124; [__GitHub__](https://github.com/bolliger32/gpl-covid) &#124; [__Press Release__](https://news.berkeley.edu/2020/06/08/emergency-covid-19-measures-prevented-more-than-500-million-infections-study-finds/) &#124; [__Project Page__](http://www.globalpolicy.science/covid19))
+__The Effect of Large-scale Anti-contagion Policies on the COVID-19 Pandemic__
 
-_joint with Solomon Hsiang, Daniel Allen, Sébastien Annan-Phan, Kendon Bell, Ian Bolliger, Trinetta Chong, Hannah Druckenmiller, Andrew Hultgren, Emma Krasovich, Peiley Lau, Jaecheol Lee, Esther Rolf, Jeanette Tseng, and Tiffany Wu_
+([Paper](https://www.nature.com/articles/s41586-020-2404-8) \| [GitHub](https://github.com/bolliger32/gpl-covid) \| [Press Release](https://news.berkeley.edu/2020/06/08/emergency-covid-19-measures-prevented-more-than-500-million-infections-study-finds/) \| [Project Page](http://www.globalpolicy.science/covid19))
 
-Our [recent Nature publication](https://www.nature.com/articles/s41586-020-2404-8) studies the effects of various lockdown and social distancing policies on the spread of COVID-19 in six countries. Our study has been covered in [more than 200 news stories](https://www.altmetric.com/details/83468553/news), including [CNN](https://edition.cnn.com/2020/06/08/health/coronavirus-shutdowns-effective-study-wellness-bn/index.html), [Washington Post](https://www.washingtonpost.com/health/2020/06/08/shutdowns-prevented-60-million-coronavirus-infections-us-study-finds/), [New York Times](https://www.nytimes.com/reuters/2020/06/08/world/europe/08reuters-health-coronavirus-lockdowns.html), [NPR](https://www.npr.org/2020/06/09/872711012/coronavirus-lockdowns-saved-millions-of-lives-journal-nature-reports), [Reuters](https://www.reuters.com/article/us-health-coronavirus-lockdowns/lockdowns-may-have-averted-3-million-deaths-in-europe-by-curbing-covid-19-study-idUSKBN23F1G3). Here is a glimpse into what would have happened, had no public health measures been taken.
+Large-scale anti-contagion policies such as travel restrictions, business and school closures, and shelter-in-place orders averted roughly 62 million COVID-19 confirmed cases in the US, China, France, Italy, South Korea and Iran (as of March/April), according to [our recent *Nature* paper](https://www.nature.com/articles/s41586-020-2404-8).
+
+__Figure: Actual no. of confirmed cases (left: Confirmed Cases), and the projected no. of confirmed cases, had no anti-contagion policies been enacted (right: No Policy Scenario)[^1].__
 
 <div id='research-covid19-nav-USA' align="center">
 <b>United States</b>
@@ -32,7 +34,12 @@ Our [recent Nature publication](https://www.nature.com/articles/s41586-020-2404-
 </div>
 <div id='research-covid19-maps-USA'></div>
 <br>
-The red circles show the actual no. of confirmed cases in March/April (left: Confirmed Cases), or the projected no. of confirmed cases on the same date, had no policies been enacted (right: No Policy Scenario). The area of the circles is proportional to no. of confirmed cases. Scroll down to see other countries. The sizes of the circles are comparable across countries.
+
+The economic costs of large-scale anti-contagion policies are enormous and highly visible. Their public health benefits, however, are harder to see because it is difficult to know the counterfactuals. We produced the first peer-reviewed analysis to quantify these benefits, informing policy makers with timely and reliable information. Our study has been covered in [more than 300 news stories](https://www.altmetric.com/details/83468553/news), including [CNN](https://edition.cnn.com/2020/06/08/health/coronavirus-shutdowns-effective-study-wellness-bn/index.html), [Washington Post](https://www.washingtonpost.com/health/2020/06/08/shutdowns-prevented-60-million-coronavirus-infections-us-study-finds/), [New York Times](https://www.nytimes.com/reuters/2020/06/08/world/europe/08reuters-health-coronavirus-lockdowns.html), [NPR](https://www.npr.org/2020/06/09/872711012/coronavirus-lockdowns-saved-millions-of-lives-journal-nature-reports), and [Reuters](https://www.reuters.com/article/us-health-coronavirus-lockdowns/lockdowns-may-have-averted-3-million-deaths-in-europe-by-curbing-covid-19-study-idUSKBN23F1G3), and reached policy makers in the White House and the CDC.
+
+Collaborating with a fantastic team of 15 researchers in [the Global Policy Lab](http://www.globalpolicy.science/team), I worked around the clock to deliver statistical analysis that is as rigorous and comprehensive as possible within a tight timeline - we released our first draft on MedRxiv 10 days after the project started, while most economic papers take several years to write. In this project, I led the China team, [identified and validated epidemiological data from native Chinese sources, which are of higher quality than commonly used COVID-19 data from John Hopkins University](https://www.nature.com/articles/s41586-020-2404-8/figures/5), and coordinated the compilation of national and local anti-contagion policy deployment in China. Concerned about how systematic trends in testing capacity may bias our estimates, I [replicated epidemiological models of COVID-19 underreporting rates and estimated the upper bounds of the induced biases](https://www.nature.com/articles/s41586-020-2404-8/figures/6). Concerned about the discrepancy between our results and the prior literature, I [digged deeper and found clear irregularities in the data that the prior literature relied on](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2404-8/MediaObjects/41586_2020_2404_MOESM1_ESM.pdf).
+
+Our analyses painted a grim picture of what would have happened, had it not been for concerted policy effort across the globe, both at the local and national level. Scroll down to learn more.
 
 <div id='research-covid19-nav-CHN' align="center">
 <b>China</b>
@@ -89,6 +96,6 @@ The red circles show the actual no. of confirmed cases in March/April (left: Con
 </div>
 <div id='research-covid19-maps-IRN'></div>
 
-Note: Estimates shown above are on March 5 (for China), March 22 (for Iran), March 25 (for France), April 6 (for South Korea, Italy, US). We do not present projections (or confirmed cases) for over 100 cities in China. We restrict our projections as such for reasons stated in the [Appendix](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2404-8/MediaObjects/41586_2020_2404_MOESM1_ESM.pdf).
+[^1]: The area of the circles is proportional to no. of confirmed cases. The sizes of the circles are comparable across countries. Estimates shown above are on March 5 (for China), March 22 (for Iran), March 25 (for France), or April 6 (for South Korea, Italy, US). We do not present projections (or confirmed cases) for over 100 cities in China. We restrict our projections as such for reasons stated in the [Appendix](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2404-8/MediaObjects/41586_2020_2404_MOESM1_ESM.pdf).
 
 <script src="/assets/js/research-covid19-maps.js"></script>

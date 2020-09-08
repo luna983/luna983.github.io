@@ -415,8 +415,9 @@ svg {
   width: 100%;
   top: 5%;
   left: 0%;
-  opacity: .3;
+  opacity: .7;
   transform-origin: 0 0;
+  transition-duration: 1s;
 }
 
 .bar {

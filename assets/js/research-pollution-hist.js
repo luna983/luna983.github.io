@@ -54,7 +54,7 @@ function showSat(bar, delay, duration) {
 // specify size and margin
 var width = 400;
 var height = 200;
-var margin = {top: 0, right: 10, bottom: 20, left: 10};
+var margin = {top: 0, right: 10, bottom: 35, left: 10};
 var inner_height = height - margin.top - margin.bottom;
 var inner_width = width - margin.left - margin.right;
 
@@ -73,7 +73,7 @@ var ann_color = "#800000";
 var ann_x = 97.5;
 var ann_rpt = 0.0863;
 var ann_x_offset = 8;
-var ann_text = "Abnormal discontinuity at 100";
+var ann_text = "abnormal discontinuity at 100";
 
 // initialize the SVG
 var svg = d3.select("#research-pollution-hist")
@@ -95,11 +95,19 @@ var xScale = d3.scaleLinear()
 var yScale = d3.scaleLinear()
                .domain([0, 0.13])
                .range([inner_height, 0]);
+var xLabel = "Air Pollution Index";
 
 // add the x axis
 svg.append("g")
    .attr("transform", "translate(0," + inner_height + ")")
    .call(d3.axisBottom(xScale));
+svg.append("text")
+   .text(xLabel)
+   .style("text-anchor", "middle")
+   .attr("x", inner_width / 2)
+   .attr("y", margin.top + inner_height + margin.bottom)
+   .attr("fill", "#777")
+   .attr("font-size", 12);
 
 // get the data
 d3.csv("/assets/data/research-pollution-hist/hist.csv").then(function(data) {
