@@ -14,9 +14,9 @@ layout: default
 
 ----
 
-### [14 June 2020] [Our _Nature_ paper is ranked #546, in the top 0.00004%, of all research outputs ever tracked by Altmetric](https://www.altmetric.com/details/83468553#score)
+### [7 Sep 2020] [Our _Nature_ paper is ranked #393, in the top 0.002%, of all research outputs ever tracked by Altmetric](https://www.altmetric.com/details/83468553#score)
 
-As of June 14, 2020, our _Nature_ paper studying the effects of anti-contagion policies on the spread of COVID-19 has been [covered by 182 news stories from 142 outlets](https://www.altmetric.com/details/83468553/news), and [tweeted 2,839 times](https://www.altmetric.com/details/83468553/twitter). In terms of media and public attention, Altmetric ranks it as #546 out of 15,251,329 research outputs across all sources ever tracked, outperforming 99.996% of its peers.
+As of Sep 7, 2020, our _Nature_ paper studying the effects of anti-contagion policies on the spread of COVID-19 has been [covered by 323 news stories from 208 outlets](https://www.altmetric.com/details/83468553/news), and [tweeted 3,426 times](https://www.altmetric.com/details/83468553/twitter). In terms of media and public attention, Altmetric ranks it as #393 out of 15,799,141 research outputs across all sources ever tracked, outperforming 99.998% of its peers.
 
 <a class="embedly-card" data-card-controls="0" href="https://www.altmetric.com/details/83468553">The effect of large-scale anti-contagion policies on the COVID-19 pandemic</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
