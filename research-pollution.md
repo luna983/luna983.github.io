@@ -15,7 +15,7 @@ layout: default
 
 ----
 
-__Combatting Manipulation of Air Pollution Data with Remote Sensing__
+__Combatting the Manipulation of Air Pollution Data with Remote Sensing__
 
 
 ([Slides](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/slides.pdf) \| [Manuscript](https://github.com/luna983/air-quality-machine-learning/blob/master/docs/manuscript.pdf) \| [Github](https://github.com/luna983/air-quality-machine-learning))

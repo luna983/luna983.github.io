@@ -56,4 +56,4 @@ Our [recent Nature publication](/research-covid19.html) on the effects of anti-c
 ### [29 March 2019] ["RCTs in the long run" on VoxTalks](https://voxeu.org/vox-talks/rcts-long-run)
 
 <iframe width="100%" height="300" src="https://embeds.audioboom.com/posts/7214409/embed/v4" style="background-color:transparent; display:block; padding: 0; max-width:700px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" title="Audioboom player" allow="autoplay"></iframe><br>
-Randomised controlled trials have revolutionised development policy. But do the interventions that work in the short run have a benefit 10 or 20 years later? My co-author and advisor, Ted Miguel, explains how our team aim to find out.
+Randomized controlled trials have revolutionized development policy. But do the interventions that work in the short run have a benefit 10 or 20 years later? My co-author and advisor, Ted Miguel, explains how our team aims to find out.
