@@ -32,11 +32,16 @@ __Figure 1: The positions of four aerial photos are jointly optimized to form a 
 </div>
 *Source: [Historical England](https://historicengland.org.uk/media/5589/london-st-pauls-vertical-1948-raf_58_40_5069-00.jpg?mode=max&quality=90&width=1200&height=1200&upscale=false&rnd=131817426560000000)[^1].*
 
+__Figure 2: Boxes of historical aerial photos, stored in the National Collection of Aerial Photography, UK.__
+
+![box](/assets/data/research-aerial-box.jpg)
+*Source: National Collection of Aerial Photography, UK.*
+
 Our team has been studying how climate change might set off mass migrations around the world, and looking back to history for inspiration. When we learned about this archive, we were immediately excited. These century-old photos can provide crucial new insights to this question because they could reveal how populations responded to natural disasters in the past — specifically, a series of extreme droughts that plagued Africa, and hurricanes that wreaked havoc in the Caribbean islands. There were such little census or survey data back then, and the earliest record of satellite images started only in 1970s. Apart from these boxes and boxes of black-and-white photos, scholars trying to study historical mass migrations have almost nothing to work with, but now, we may be able to observe human settlement patterns from these photos and study how they respond to extreme weather events.
 
 One of the first challenges in working with historical aerial photos is that it is difficult to georeference them, or to assign the images to the geographical location that they cover. Unlike modern satellite imagery, historical images are not georeferenced at the time when they are collected, and the ways that experts record their locations can be pretty crude. Usually, they roughly outline the areas that the aerial photos cover by hand, and mark the image identifier numbers on them. As you can imagine, these hand-drawn maps tend to be inaccurate, and more importantly, georeferencing aerial photos solely based on hand-drawn maps is labor intensive and quickly becomes impossible as the number of aerial photos grows. Other commercially available softwares such as Photoshop and OpenCV succeeded in automatically stitching a small number of images (<100), but failed miserably when scaled up.
 
-__Figure 2: An example hand-drawn map marking the positions of the aerial photos.__
+__Figure 3: An example hand-drawn map marking the positions of the aerial photos.__
 
 ![sortie](/assets/data/research-aerial-sortie.jpg)
 *Source: [National Collection of Aerial Photography, UK.](https://ncap.org.uk/sites/default/files/NCAP_ACIU_PLOT_64976-3.jpg)*
