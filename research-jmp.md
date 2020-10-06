@@ -19,7 +19,7 @@ __Measuring the Effectiveness of Poverty Alleviation Programs from Space__
 
 _job market paper_
 
-([AGU 2019 Abstract](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/507850) \| [GitHub](https://github.com/luna983/beyond-nightlight))
+([AGU 2019 Abstract](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/507850) \| [GitHub](https://github.com/luna983/beyond-nightlight) \| [Manuscript](/assets/pdf/cv_short.pdf))
 
 [Hundreds of billions of dollars](https://data.worldbank.org/indicator/DT.ODA.ALLD.CD) are spent on development assistance programs every year. How do we know that they are working? More importantly, how do we know which program generates the biggest per-dollar impact?
 
