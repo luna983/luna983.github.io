@@ -21,3 +21,6 @@ Her Ph.D. dissertation focuses on how new technologies such as high-resolution s
 * to combat the manipulation of air pollution data with remote sensing (in China) &nbsp; [__&rarr; project page__](/research-pollution.html)
 
 __Update:__ Luna will join Waymo (formerly the Google self-driving car project) as a data scientist in May 2021.
+
+
+_Last Updated: Dec 31, 2020_
