@@ -14,6 +14,15 @@ layout: default
 
 ----
 
+### [21 Apr 2021] [Our _Nature_ paper is ranked #22 among 3.4 million works in the "Top 100 Most Discussed Articles in 2020" by Altmetric.](https://www.altmetric.com/top100/2020/)
+
+Altmetric tracked 3.4 million works in 2020, and compiled the top 100 most discussed articles across 20 disciplines. Our _Nature_ paper is ranked #22.
+
+<a class="embedly-card" data-card-controls="0" href="https://www.altmetric.com/top100/2020/">The 2020 Altmetric Top 100</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+----
+
 ### [7 Sep 2020] [Our _Nature_ paper is ranked #393, in the top 0.002%, of all research outputs ever tracked by Altmetric](https://www.altmetric.com/details/83468553#score)
 
 As of Sep 7, 2020, our _Nature_ paper studying the effects of anti-contagion policies on the spread of COVID-19 has been [covered by 323 news stories from 208 outlets](https://www.altmetric.com/details/83468553/news), and [tweeted 3,426 times](https://www.altmetric.com/details/83468553/twitter). In terms of media and public attention, Altmetric ranks it as #393 out of 15,799,141 research outputs across all sources ever tracked, outperforming 99.998% of its peers.
