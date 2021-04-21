@@ -28,5 +28,5 @@ layout: default
 
 ### Ongoing Work
 
-- Measuring the Effectiveness of Poverty Alleviation Programs from Space (job market paper). &nbsp; [__&rarr; project page__](/research-jmp.html)
+- Using Satellite Imagery and Deep Learning to Evaluate the Impact of Anti-Poverty Programs (joint with Solomon Hsiang, and Marco Gonzalez-Navarro). &nbsp; [__&rarr; project page__](/research-jmp.html)
 - Mapping Historical Climate Migration With 1.6 Million Aerial Photographs (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Alex Gao, Shruti Jain, Andreas Madestam, Nicklas Nordfors, Tommy Poa, and Anna Tompsett). &nbsp; [__&rarr; project page__](/research-aerial.html)
