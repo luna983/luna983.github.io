@@ -10,6 +10,8 @@ layout: default
 
 ----
 
+_This website is no longer actively maintained. Please see [Luna's LinkedIn profile](https://www.linkedin.com/in/luna983/) for updates._
+
 ## Bio
 
 Luna has a Ph.D. in development economics from [UC Berkeley](https://www.berkeley.edu/), and used to be a doctoral fellow at the [Global Policy Lab](http://www.globalpolicy.science/new-cover-page). Luna has published in top academic journals like [_Nature_](https://www.nature.com/articles/s41586-020-2404-8) and [_Annual Review of Economics_](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030333). Her work [was covered in 323 news stories, tweeted 3,426 times, and reached policymakers in the White House and the CDC](/impact.html).
